@@ -1,7 +1,8 @@
 ### Hello, world.
 ![](https://github.com/gabzin/gabzin/blob/main/x.png?raw=true)
 
-:computer: Estudante de engenharia da computação.
+<h3><em>Estudante de engenharia da computação</em></h3>
+<h3><em>Inglês avançado</em></h3>
 
 <h3>💻 <em>Langs</em></h3>
 <blockquote>
