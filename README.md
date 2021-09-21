@@ -1,8 +1,15 @@
 ### Hello, world.
 ![](https://github.com/gabzin/gabzin/blob/main/x.png?raw=true)
 
-<h3><em>Estudante de engenharia da computação</em></h3>
-<h3><em>Inglês avançado</em></h3>
+<h3>:books: <em>Cursos</em></h3>
+<blockquote>
+  <ul>
+    <li><em>Engenharia de computação</em></li>
+    <li><em>Ingês avançado</em></li>
+    <li><em>Robótica/Arduino</em></li>
+
+  </ul>
+</blockquote>
 
 <h3>💻 <em>Langs</em></h3>
 <blockquote>
