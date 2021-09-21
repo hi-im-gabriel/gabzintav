@@ -1,9 +1,18 @@
-### Gabriel Tavares
+### Hello, world.
 ![](https://github.com/gabzin/gabzin/blob/main/x.png?raw=true)
 
 :computer: Estudante de engenharia da computação.
 
-:warning: PYTHON, JAVA, C, C++, PERL, RUBY
+<h3>💻 <em>Langs</em></h3>
+<blockquote>
+  <ul>
+    <li><em>Python</em></li>
+    <li><em>C/C++</em></li>
+    <li><em>Ruby</em></li>
+    <li><em>Java</em></li>
+    <li><em>C#</em></li>
+  </ul>
+</blockquote>
 
 
 
