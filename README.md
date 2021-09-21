@@ -11,7 +11,7 @@
   </ul>
 </blockquote>
 
-<h3>💻 <em>Langs</em></h3>
+<h3>💻 <em>Linguagens</em></h3>
 <blockquote>
   <ul>
     <li><em>Python</em></li>
