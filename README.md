@@ -5,17 +5,7 @@
  </p>
 
 <div align="left">
-<h3>:books: <em>Cursos</em></h3>
-<blockquote>
-  <ul>
-    <li><em>Engenharia de computação</em></li>
-    <li><em>Inglês avançado</em></li>
-    <li><em>Robótica/Arduino</em></li>
-
-  </ul>
-</blockquote>
-
-
+ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gabzin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bielzintav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gabrieltav27/)  
 
