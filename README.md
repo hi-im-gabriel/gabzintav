@@ -1,5 +1,9 @@
 ### Hello, world.
-![](https://github.com/gabzin/gabzin/blob/main/x.png?raw=true)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=cyan">
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=cyan">
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=orange">
 
 <h3>:books: <em>Cursos</em></h3>
 <blockquote>
