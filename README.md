@@ -19,10 +19,9 @@
 <blockquote>
   <ul>
     <li><em>Python</em></li>
-    <li><em>C/C++</em></li>
-    <li><em>Ruby</em></li>
     <li><em>Java</em></li>
-    <li><em>C#</em></li>
+    <li><em>C/C++/C#</em></li>
+    <li><em>Ruby</em></li>
   </ul>
 </blockquote>
 
