@@ -5,7 +5,7 @@
 <blockquote>
   <ul>
     <li><em>Engenharia de computação</em></li>
-    <li><em>Ingês avançado</em></li>
+    <li><em>Inglês avançado</em></li>
     <li><em>Robótica/Arduino</em></li>
 
   </ul>
