@@ -1,5 +1,5 @@
 ### Hi there 👋, me chamo Gabriel Tavares
-![](https://github.com/gabzin/gabzin/blob/main/eat%20(1).jpg?raw=true)
+![](https://github.com/gabzin/gabzin/blob/main/x.png?raw=true)
 
 Estudante de engenharia da computação.
 
