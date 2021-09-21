@@ -1,7 +1,7 @@
 ### Hi there 👋, me chamo Gabriel Tavares
 ![](https://github.com/gabzin/gabzin/blob/main/x.png?raw=true)
 
-Estudante de engenharia da computação.
+:computer: Estudante de engenharia da computação.
 
 Skills: PYTHON, JAVA, C, C++, PERL
 
