@@ -1,6 +1,6 @@
 ### Hello, world.
 ```bash
-root@root~# sudo apt remove windows
+root@root~# apt remove windows
 ```
 <h3>💻 <em>Skills</em></h3>
  <p align = "center">
