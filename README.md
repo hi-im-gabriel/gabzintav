@@ -21,6 +21,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabzin&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)
  
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzin&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzin&layout=compact&langs_count=6&theme=tokyonight)
 
 ![Profile views](https://gpvc.arturio.dev/gabzin)  
