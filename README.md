@@ -15,9 +15,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 
   
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabzin&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabzin&count_private=true&show_icons=true&theme=tokyonight)
  
+
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzin&layout=compact&langs_count=10&exclude_repo=uri,tools&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzin&layout=compact&langs_count=10&theme=tokyonight)
 
 ![Profile views](https://gpvc.arturio.dev/gabzin)  
