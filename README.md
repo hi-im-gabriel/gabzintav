@@ -19,6 +19,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
  
 
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzin&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzin&langs_count=10&theme=tokyonight&hide=php,batchfile&exclude_repo=tools)
 
 ![Profile views](https://gpvc.arturio.dev/gabzin)  
