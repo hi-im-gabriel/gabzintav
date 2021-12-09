@@ -15,7 +15,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 
   
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabzin&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabzin&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
  
 
  
