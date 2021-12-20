@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
  
  <div>
   <img height="180em" src="https://gabzin.vercel.app/api?username=gabzin&count_private=true&show_icons=true&theme=tokyonight&border_radius=50&include_all_commits=true"/>
-  <img height="180em" src="https://gabzin.vercel.app/api/top-langs/?username=gabzin&langs_count=10&theme=tokyonight&hide=php,batchfile,shell&exclude_repo=tools&border_radius=50&layout=compact"/>
+  <img height="180em" src="https://gabzin.vercel.app/api/top-langs/?username=gabzin&langs_count=10&theme=tokyonight&hide=php,batchfile,shell&exclude_repo=tools,vercel-stats,consultas&border_radius=50&layout=compact"/>
 </div>
 <br>
 
