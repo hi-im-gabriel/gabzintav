@@ -23,7 +23,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
  <br>
  
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabzin&count_private=true&show_icons=true&theme=tokyonight&border_radius=50&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabzin&count_private=true&show_icons=true&theme=tokyonight&border_radius=50"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzin&langs_count=10&theme=tokyonight&hide=php,batchfile&exclude_repo=tools&border_radius=50&layout=compact"/>
 </div>
 <br>
